@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "943258118004",
+    "project_id": "capturelensapp",
+    "storage_bucket": "capturelensapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943258118004:android:c524453058825f9c51ae21",
+        "android_client_info": {
+          "package_name": "com.opticiansapp.capturelensapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqcsMfNalaavnAknZyTe7hJ8KKTZKTVMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
