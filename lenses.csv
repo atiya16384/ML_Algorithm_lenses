@@ -1,0 +1,424 @@
+
+
+
+name,index,fitting_cross,manufacturer
+Gradal Top,1.5 index,6 mm,Zeiss
+Gradal Top,1.6 index,6 mm,Zeiss
+Gradal Top,1.67 index,6 mm,Zeiss
+Gradal Top,1.8 glass,6 mm,Zeiss
+Gradal Individual,1.6 index,6 mm,Zeiss
+Gradal Short I,1.6 index,Zeiss
+Gradal HS,1.5 index,6 mm,Zeiss
+Gradal HS,1.5 photochromic,6 mm,Zeiss
+Gradal HS,1.6 index,6 mm,Zeiss
+Gradal 3,6 mm,Zeiss
+Gradal RD,6 mm,Zeiss
+Clarlet Business,,0 mm,Zeiss
+Brevis,,6 mm,Zeiss
+GT2 3D,1.5 index,6 mm,Zeiss
+GT2 3D,1.6 index,6 mm,Zeiss
+GT2 3D Short,1.5 index,6 mm,Zeiss
+GT2 3D Short,1.6 index,6 mm,Zeiss
+GT2 3D Short,1.67 index,6 mm,Zeiss
+
+
+name,index,manufacturer
+ZEISS Progressive Individual 2,1.5 index,Zeiss
+ZEISS Progressive Individual 2,1.6 index,Zeiss
+ZEISS Progressive Individual 2,1.67 index,Zeiss
+ZEISS Progressive Individual 2,1.74 index,Zeiss
+ZEISS Progressive Individual Mineral,1.6 index,Zeiss
+ZEISS Progressive Superb,1.5 index,Zeiss
+ZEISS Progressive Superb,1.6 index,Zeiss
+ZEISS Progressive Superb,1.67 index,Zeiss
+ZEISS Progressive Superb,1.74 index,Zeiss
+ZEISS Progressive Plus 2,1.5 index,Zeiss
+ZEISS Progressive Plus 2,1.6 index,Zeiss
+ZEISS Progressive Plus 2,1.67 index,Zeiss
+ZEISS Progressive Plus 2,1.74 index,Zeiss
+ZEISS Progressive Plus 2 Short,1.5 index,Zeiss
+ZEISS Progressive Plus 2 Short,1.6 index,Zeiss
+ZEISS Progressive Plus 2 Short,1.67 index,Zeiss
+ZEISS Progressive Plus 2 Short,1.74 index,Zeiss
+ZEISS Progressive Plus Mineral,1.6 index,Zeiss
+ZEISS Progressive Plus Mineral,1.8 index,Zeiss
+ZEISS officelens Individual,1.5 index,Zeiss
+ZEISS officelens Individual,1.6 index,Zeiss
+ZEISS officelens Individual,1.67 index,Zeiss
+ZEISS officelens Individual,1.74 index,Zeiss
+ZEISS officelens Superb,1.5 index,Zeiss
+ZEISS officelens Superb,1.6 index,Zeiss
+ZEISS officelens Superb,1.67 index,Zeiss
+ZEISS officelens Superb,1.74 index,Zeiss
+ZEISS officelens Plus,1.5 index,Zeiss
+ZEISS officelens Plus,1.6 index,Zeiss
+ZEISS officelens Plus,1.67 index,Zeiss
+ZEISS officelens Plus,1.74 index,Zeiss
+ZEISS officelens Plus Short,1.5 index,Zeiss
+ZEISS officelens Plus Short,1.6 index,Zeiss
+ZEISS officelens Plus Short,1.67 index,Zeiss
+ZEISS officelens Plus Short,1.74 index,Zeiss
+ZEISS officelens Plus Mineral,1.6 index,Zeiss
+ZEISS Single Vision Individual,1.5 index,Zeiss
+ZEISS Single Vision Individual,1.6 index,Zeiss
+ZEISS Single Vision Individual,1.67 index,Zeiss
+ZEISS Single Vision Individual,1.74 index,Zeiss
+ZEISS Single Vision Superb,1.5 index,Zeiss
+ZEISS Single Vision Superb,1.6 index,Zeiss
+ZEISS Single Vision Superb,1.67 index,Zeiss
+ZEISS Single Vision Superb,1.74 index,Zeiss
+ZEISS Digital,1.5 index,Zeiss
+ZEISS Digital,1.6 index,Zeiss
+ZEISS Digital,1.67 index,Zeiss
+ZEISS Digital,1.74 index,Zeiss
+ZEISS Digital,1.8 index,Zeiss
+
+manufacturer,name,index,fitting_cross
+Zeiss,Gradal Top,1.5 index,6 mm
+Zeiss,Gradal Top,1.6 index,6 mm
+Zeiss,Gradal Top,1.67 index,6 mm
+Zeiss,Gradal Top,1.8 glass,6 mm
+Zeiss,Gradal Individual,1.6 index,6 mm
+Zeiss,Gradal Short I,1.6 index,6 mm
+Zeiss,Gradal HS,1.5 index,6 mm
+Zeiss,Gradal HS,1.5 photochromic,6 mm
+Zeiss,Gradal HS,1.6 index,6 mm
+Zeiss,Gradal 3,,6 mm
+Zeiss,Gradal RD,,6 mm
+Zeiss,Clarlet Business,,0 mm
+Zeiss,Brevis,,6 mm
+Zeiss,GT2 3D,1.5 index,6 mm
+Zeiss,GT2 3D,1.6 index,6 mm
+Zeiss,GT2 3D Short,1.5 index,6 mm
+Zeiss,GT2 3D Short,1.6 index,6 mm
+Zeiss,GT2 3D Short,1.67 index,6 mm
+
+
+manufacturer,name,index,
+Essilor,Computer 3V,,,
+Essilor,Comfort New Edition,1.5 index,
+Essilor,Comfort New Edition,1.6 index,,
+Essilor,Comfort New Edition,1.59 index,
+Essilor,Comfort New Edition,1.67 index,
+Essilor,Comfort New Edition Short,1.5 index,
+Essilor,Comfort New Edition Short,1.6 index,
+Essilor,Comfort New Edition Short,1.59 index,
+Essilor,Comfort New Edition Xperio,1.59 index,
+Essilor,Ipseo New Edition,1.5 index,
+Essilor,Ipseo New Edition,1.6 index,
+Essilor,Ipseo New Edition,1.67 index,
+Essilor,Ipseo New Edition,1.59 index,
+Essilor,Ipseo New Edition,1.74 index,
+Essilor,Varilux Liberty Short,1.5 index,
+Essilor,Varilux Liberty Short,1.6 index,
+Essilor,Varilux Physio,1.6 index,
+Essilor,Varilux Physio,1.74 index,
+Essilor,Varilux Physio Short,1.5 index,
+Essilor,Varilux Physio Short,1.6 index,
+Essilor,Varilux Physio Short,1.59 index,
+Essilor,Varilux Physio Short,1.67 index,
+Essilor,Varilux Physio Short,1.74 index,
+Essilor,Varilux Sport,,
+Essilor,Varilux Ultra,1.5 index,
+Essilor,Varilux Ultra,1.6 index,
+Essilor,Varilux Ultra,1.59 index,
+Essilor,Varilux Ultra,1.67 index,
+Essilor,Varilux Ultra Short,1.5 index,
+Essilor,Varilux Ultra Short,1.6 index,
+Essilor,Varilux Ultra Short,1.59 index,
+Essilor,Varilux S Design,Stylis 1.67,
+Essilor,Varilux S Design,Ormix 1.6
+Essilor,Varilux S Design,Airwear 1.59,
+Essilor,Varilux S Design,Orma 1.5,
+Essilor,Varilux S Design Short,Stylis 1.67,
+Essilor,Varilux S Design Short,Ormix 1.6,
+Essilor,Varilux S Design Short,Airwear 1.59,
+Essilor,Varilux S Design Short,Orma 1.5
+Essilor,Varilux S 2,Stylis 1.67,
+Essilor,Varilux S 2,Ormix 1.6,
+Essilor,Varilux S 2,Airwear 1.59,
+Essilor,Varilux S 2,Orma 1.5,
+Essilor,Varilux S 4D,Stylis 1.67,
+Essilor,Varilux S 4D,Ormix 1.6,
+Essilor,Varilux S 4D,Airwear 1.59,
+Essilor,Varilux S 4D,Orma 1.5,
+Essilor,Varilux Ellipse,1.5 index,4 mm
+Essilor,Varilux Ellipse,Polycarbonate,4 mm
+Essilor,Varilux Ellipse,1.67 index,4 mm
+Essilor,Varilux Liberty,1.5 index,4 mm
+Essilor,Varilux Liberty,Polycarbonate,4 mm
+Essilor,Varilux Liberty,1.6 (glass),4 mm
+Essilor,Varilux Liberty,1.8 (glass),4 mm
+Essilor,Varilux Physio,1.5 index,4 mm
+Essilor,Varilux Physio,Polycarbonate,4 mm
+Essilor,Varilux Physio,1.67 index,4 mm
+Essilor,Varilux Physio f-360,1.5 index,4 mm
+Essilor,Varilux Physio f-360,Polycarbonate,4 mm
+Essilor,Varilux Physio f-360,1.60 index,4 mm
+Essilor,Varilux Physio f-360,1.67 index,4 mm
+Essilor,Varilux Physio f-360,1.74 index,4 mm
+Essilor,Varilux Omega,,0 mm
+Essilor,Interview,,0 mm
+Essilor,Computer 2V,,0 mm
+Essilor,Computer 3V,,0 mm
+Essilor,Anti-Fatigue,,0 mm
+
+manufacturer,name,index,fitting_cross
+Seiko,Orgatech Super P-1 Neo Individualised,1.67 index,AS25 2 mm
+Seiko,Orgatech Super P-1 Neo Individualised,1.67 index,208 2 mm
+Seiko,Orgatech Super P-1 Neo Individualised,1.74 index,AS25 2 mm
+Seiko,Orgatech Super P-1 Neo Individualised,1.74 index, 208 2 mm
+Seiko,Orgatech Super P-1 Neo,1.67 index,AS25 2 mm
+Seiko,Orgatech Super P-1 Neo,1.67 index,202 2 mm
+Seiko,Orgatech Super P-1 Neo,1.74 index,AS25 2 mm
+Seiko,Orgatech Super P-1 Neo,1.74 index, 208 2 mm
+Seiko,Synergy (P-1SY),1.60 index,2 mm 
+Seiko,Synergy (P-1SY),1.60 index,2 mm 
+Seiko,Synergy (P-1SY),1.67 index,2 mm 
+Seiko,Synergy (P-1SY),1.67 index,2 mm 
+Seiko,Synergy (P-1SY),1.74 index,2 mm 
+Seiko,Wing (P-1W),1.56 index,2 mm 
+Seiko,Wing (P-1W),1.56 Changers,2 mm
+Seiko,Wing (P-1W),1.67 index,2 mm 
+Seiko,Wing (P-1W),1.67 Transitions,2 mm 
+Seiko,P-1 Computer,1.56 index,0 mm
+Seiko,P-1 Indoor,1.60 index,0 mm
+Seiko,P-1 Indoor,1.67 index,0 mm
+
+
+manufacturer,name,index,property, 
+Seiko,Sportstech,,Inner Surface Aspheric,
+Seiko,INDI-SV White & Transitions,1.67 index,Individualised Inner Surface Aspheric,
+Seiko,INDI-SV Tribrid White & Transitions,,Individualised Inner Surface Aspheric,
+Seiko,INDI-SV White,1.60 index, Transitions & Polarising Individualised Inner Surface Aspheric,
+Seiko,INDI-SV  White,1.50 index,Transitions Polarising & DriveWear Individualised Inner Surface Aspheric,
+Seiko,AZ ,1.74 index,Double Aspheric,
+Seiko,A-ZONE ,1.74 index,Double Aspheric,
+Seiko,AZ White & Transitions,1.67 index,Double Aspheric,
+Seiko,A-ZONE ,1.67 index,Double Aspheric,
+Seiko,AZ 1.60 White & Transitions,1.60 index,Double Aspheric,
+Seiko,A-ZONE ,1.60 index,Double Aspheric,
+Seiko, AS Transitions,1.74 index,Aspheric,
+Seiko, AS,1.74 index,Aspheric,
+Seiko, AS White & Transitions,1.67 index,Aspheric,
+Seiko,AS,1.60 index,Aspheric,
+Seiko,White & Transitions,1.67 index,Spherical,
+Seiko,Tribrid White & Transitions,,Spherical,
+Seiko,White, 1.60 index,Transitions & Polarising Spherical,
+Seiko,White,1.50 index Transitions, DriveWear & Polarising Spherical,
+Seiko,SUPERIOR, 1.74 index,Individualised inner surface progressive,
+Seiko,SUPERIOR White & Transitions,1.67 index,Individualised inner surface progressive,
+Seiko,SUPERIOR White & Transitions,1.60 index,Individualised inner surface progressive,
+Seiko,NEO ,1.74 index,Individualised inner surface progressive,
+Seiko,NEO White & Transitions,1.67 index,Individualised inner surface progressive,
+Seiko,NEO White & Transitions,1.60 index,Individualised inner surface progressive,
+Seiko,EMBLEM XtraWide ,1.74 index,Inner surface progressive,
+Seiko,EMBLEM XtraWide White & Transitions,1.67 index,Inner surface progressive,
+Seiko,EMBLEM XtraWide Tribrid White & Transitions,,Inner surface progressive,
+Seiko,EMBLEM XtraWide White, 1.60 index,Transitions & Polarising Inner surface progressive,
+Seiko,EMBLEM XtraWide White,1.50 index, Transitions Polarising & DriveWear Inner surface progressive,
+Seiko,SYNERGY Xtra ,1.74 index,Inner surface progressive,
+Seiko,SYNERGY Xtra White & Transitions,1.67 index,Inner surface progressive,
+Seiko,SYNERGY Xtra Tribrid White & Transitions,,Inner surface progressive,
+Seiko,SYNERGY Xtra White,1.60 index, Transitions & Polarising Inner surface progressive,
+Seiko,SYNERGY Xtra White, 1.50 index, Transitions Polarising & DriveWear Inner surface progressive
+Seiko,VSX White & Transitions,1.67 Index,Inner Surface Progressive,
+Seiko,VSX White,1.60 index, Transitions & Polarising Inner Surface Progressive,
+Seiko,VSX White,1.50 index,Transitions Polarising & DriveWear Inner Surface Progressive,
+Seiko,WING ,1.67 index,Inner Surface Progressive
+Seiko,WING ,1.60 index,Inner Surface Progressive,
+Seiko,WING ,1.50 index,Inner Surface Progressive,
+Seiko,EXTENSIVE VISION White & Transitions,1.67 index,Inner Surface Progressive,
+Seiko,EXTENSIVE VISION White & Transitions,1.60 index,Inner Surface Progressive,
+Seiko,INDOOR,1.67 index,Inner Surface Progressive,
+Seiko,INDOOR ,1.60 index,Inner Surface Progressive,
+Seiko,COMPUTER Xtra ,1.67 index,Inner Surface Progressive,
+Seiko,COMPUTER Xtra Tribrid,,Inner Surface Progressive,
+Seiko,COMPUTER Xtra ,1.60 index,Inner Surface Progressive,
+Seiko,COMPUTER Xtra ,1.50 index,Inner Surface Progressive,
+
+
+
+manufacturer,name,index,fitting_cross
+Nikon,Presio W,1.5 index 12mm corridor,2 mm
+Nikon,Presio W,1.67 index 12mm corridor,2 mm
+Nikon,Presio W,1.74 index 12mm corridor,2 mm
+Nikon,Presio W,1.5 index 14mm corridor,2 mm
+Nikon,Presio W,1.67 index 14mm corridor,2 mm
+Nikon,Presio W,1.74 index 14mm corridor,2 mm
+Nikon,Presio i,1.5 index 13mm corridor,2 mm
+Nikon,Presio i,1.6 index 13mm corridor,2 mm
+Nikon,Presio i,1.67 index 13mm corridor,2 mm
+Nikon,Presio i,1.74 index 13mm corridor,2 mm
+Nikon,Presio i,1.5 index 15mm corridor,2 mm
+Nikon,Presio i,1.6 index 15mm corridor,2 mm
+Nikon,Presio i,1.67 index 15mm corridor,2 mm
+Nikon,Presio i,1.74 index 15mm corridor,2 mm
+Nikon,Seemax,1.6 index 12mm corridor,2 mm
+Nikon,Seemax,1.67 index 12mm corridor,2 mm
+Nikon,Seemax,1.74 index 12mm corridor,2 mm
+Nikon,Seemax,1.6 index 14mm corridor,2 mm
+Nikon,Seemax,1.67 index 14mm corridor,2 mm
+Nikon,Seemax,1.74 index 14mm corridor,2 mm
+Nikon,Move 2,1.5 index,2 mm
+Nikon,Move 2,1.6 index,2 mm
+Nikon,Move 2,1.67 index,2 mm
+Nikon,Presio i Digital,1.6 index,13mm corridor
+Nikon,Presio i Digital,1.6 index,15mm corridor
+Nikon,Seemax Power,1.6 index,12mm
+Nikon,Seemax Power,1.6 index,13mm
+Nikon,Seemax Power,1.6 index,14mm
+Nikon,Seemax Power,1.67 index,12mm
+Nikon,Seemax Power,1.67 index,13mm
+Nikon,Seemax Power,1.67 index,14mm
+Nikon,Seemax Power,1.74 index,12mm
+Nikon,Seemax Power,1.74 index,13mm
+Nikon,Seemax Power,1.74 index,14mm
+Nikon,Presio Power,1.5 index,12mm
+Nikon,Presio Power,1.5 index,13mm
+Nikon,Presio Power,1.5 index,14mm
+Nikon,Presio Power,1.6 index,12mm
+Nikon,Presio Power,1.6 index,13mm
+Nikon,Presio Power,1.6 index,14mm
+Nikon,Presio Power,1.67 index,12mm
+Nikon,Presio Power,1.67 index,13mm
+Nikon,Presio Power,1.67 index,14mm
+Nikon,Presio Power,1.74 index,12mm
+Nikon,Presio Power,1.74 index,13mm
+Nikon,Presio Power,1.74 index,14mm
+Nikon,DigiLife,1.5 index,10mm
+Nikon,DigiLife,1.5 index,12mm
+Nikon,DigiLife,1.5 index,14mm
+Nikon,DigiLife,1.6 index,10mm
+Nikon,DigiLife,1.6 index,12mm
+Nikon,DigiLife,1.6 index,14mm
+Nikon,DigiLife,1.67 index,10mm
+Nikon,DigiLife,1.67 index,12mm
+Nikon,DigiLife,1.67 index,14mm
+Nikon,DigiLife,1.74 index,10mm
+Nikon,DigiLife,1.74 index,12mm
+Nikon,DigiLife,1.74 index,14mm
+Nikon,Presio Balance,1.5 index,10mm
+Nikon,Presio Balance,1.5 index,12mm
+Nikon,Presio Balance,1.5 index,14mm
+Nikon,Presio Balance,1.6 index,10mm
+Nikon,Presio Balance,1.6 index,12mm
+Nikon,Presio Balance,1.6 index,14mm
+Nikon,Presio Balance,1.67 index,10mm
+Nikon,Presio Balance,1.67 index,12mm
+Nikon,Presio Balance,1.67 index,14mm
+Nikon,Presio Balance,1.74 index,10mm
+Nikon,Presio Balance,1.74 index,12mm
+Nikon,Presio Balance,1.74 index,14mm
+
+
+
+
+
+manufacturer,name,index,corridor_length_11,corridor_length_12,corridor_length_13,corridor_length_14,corridor_length_15,corridor_length_16,Temporal
+Hoya,Hoyalux iD MyStyle V+,Eyvia 1.74,MSV17,MSV27,MSV37,MSV47,MSV57,MSV67,***,
+Hoya,Hoyalux iD MyStyle V+,Eynoa 1.67,MSV15,MSV25,MSV35,MSV45,MSV55,MSV65,***,
+Hoya,Hoyalux iD MyStyle V+,Eyas 1.6,MSV13,MSV23,MSV33,MSV43,MSV53,MSV63,***,
+Hoya,Hoyalux iD MyStyle V+,PNX 1.53,MSV11,MSV21,MSV31,MSV41,MSV51,MSV61,***,
+Hoya,Hoyalux iD MyStyle V+,CR39 1.50,MSV11,MSV21,MSV31,MSV41,MSV51,MSV61,***,
+Hoya,Hoyalux iD LifeStyle V+ X-Act Harmony,Eyvia 1.74,LX17H,,,LX47H,,,***
+Hoya,Hoyalux iD LifeStyle V+ X-Act Harmony,Eynoa 1.67,LX15H,,,LX45H,,,***
+Hoya,Hoyalux iD LifeStyle V+ X-Act Harmony,Eyas 1.60,LX13H,,,LX43H,,,***
+Hoya,Hoyalux iD LifeStyle V+ X-Act Harmony,PNX 1.53,LX11H,,,LX4XH,,,***
+Hoya,Hoyalux iD LifeStyle V+ X-Act Harmony,CR39 1.50,LX11H,,,LX41H,,,***
+Hoya,Hoyalux iD LifeStyle V+ X-Act Clarity,Eyvia 1.74,LX17C,,,LX47C,,,***
+Hoya,Hoyalux iD LifeStyle V+ X-Act Clarity,Eynoa 1.67,LX15C,,,LX45C,,,***
+Hoya,Hoyalux iD LifeStyle V+ X-Act Clarity,Eyas 1.60,LX13C,,,LX43C,,,***
+Hoya,Hoyalux iD LifeStyle V+ X-Act Clarity,PNX 1.53,LX1XC,,,LX4XC,,,***
+Hoya,Hoyalux iD LifeStyle V+ X-Act Clarity,CR39 1.50,LX11C,,,LX41C,,,***
+Hoya,Hoyalux iD LifeStyle V+ Harmony,Eyvia 1.74,L17H,,,L47H,,,***
+Hoya,Hoyalux iD LifeStyle V+ Harmony,Eynoa 1.67,L15H,,,L45H,,,***
+Hoya,Hoyalux iD LifeStyle V+ Harmony,Eyas 1.60,L13H,,,L43H,,,***
+Hoya,Hoyalux iD LifeStyle V+ Harmony,PNX 1.53,L1XH,,,L41H,,,***
+Hoya,Hoyalux iD LifeStyle V+ Harmony,CR39 1.50,L11H,,,L41H,,,***
+Hoya,Hoyalux iD LifeStyle V+ Clarity,Eyvia 1.74,L17C,,,L47C,,,***
+Hoya,Hoyalux iD LifeStyle V+ Clarity,Eynoa 1.67,L15C,,,L45C,,,***
+Hoya,Hoyalux iD LifeStyle V+ Clarity,Eyas 1.60,L13C,,,L43C,,,***
+Hoya,Hoyalux iD LifeStyle V+ Clarity,PNX 1.53,L11C,,,L41C,,,***
+Hoya,Hoyalux iD LifeStyle V+ Clarity,CR39 1.50,L11C,,,L41C,,,***
+Hoya,Hoyalux Summit Pro TrueForm,Eynoa 1.67,,,,SP5,,,TF
+Hoya,Hoyalux Summit Pro TrueForm,Eyas 1.60,,,,SP3,,,TF
+Hoya,Hoyalux Summit Pro TrueForm,PNX 1.53,,,,SPX,,,TF
+Hoya,Hoyalux Summit Pro TrueForm,CR39 1.50,,,,SP1,,,TF
+Hoya,Hoyalux Summit CD TrueForm,Eynoa 1.67,CD5,,,,,,TF
+Hoya,Hoyalux Summit CD TrueForm,Eyas 1.60,CD3,,,,,,TF
+Hoya,Hoyalux Summit CD TrueForm,PNX 1.53,CDX,,,,,,TF
+Hoya,Hoyalux Summit CD TrueForm,CR39 1.50,CD1,,,,,,TF
+Hoya,Hoyalux Amplitude TrueForm,Eynoa 1.67,AS5,,,,A5,,TF
+Hoya,Hoyalux Amplitude TrueForm,Eyas 1.60,AS3,,,,A3,,TF
+Hoya,Hoyalux Amplitude TrueForm,PNX 1.53,ASX,,,,AX,,TF
+Hoya,Hoyalux Amplitude TrueForm,CR39 1.50,AS1,,,,A1,,TF
+Hoya,Hoyalux Summit Pro,LHI-1.70,,,,SP4,,,,
+Hoya,Hoyalux Summit Pro,LHI-2 1.60,,,,SP3,,,,
+Hoya,Hoyalux Summit Pro,UV 1.52,,,,SP1,,,,
+Hoya,Hoyalux Summit CD,THI-2 1.81,,,,CD6,,,,
+Hoya,Hoyalux Summit CD,LHI-2 1.60,,,,CD3,,,,
+Hoya,Hoyalux Amplitude,UV 1.52,AS1,,,,A1,,,
+Hoya,Hoyalux iD WorkStyle V+,Eynoa 1.67,WSV5,,,,,,C or S or P 18 to 24
+Hoya,Hoyalux iD WorkStyle V+,Eynoa 1.60,WSV3,,,,,,C or S or P 18 to 24
+Hoya,Hoyalux iD WorkStyle V+,CR39 1.50,WSV1,,,,,,C or S or P 18 to 24
+Hoya,Hoyalux Tact TrueForm 200/400,Eynoa 1.60,T3,,,,,,TF
+Hoya,Hoyalux Tact TrueForm 200/400,CR39 1.50,T1,,,,,,TF
+Hoya,AddPower 120 TrueForm,Eynoa 1.60,L3,,,,,,TF
+Hoya,AddPower 120 TrueForm,CR39 1.50,L1,,,,,,TF
+Hoya,AddPower 60 TrueForm,CR39 1.50,API,,,,,,TF
+Hoya,Nulux iDentity V+,Eyvia 1.74,Ni 7,
+Hoya,Nulux iDentity V+,Eynoa 1.67,Ni 5,
+Hoya,Nulux iDentity V+,Eyas 1.60,Ni 3,
+Hoya,Nulux iDentity V+,CR39 1.50,Ni 1,
+
+
+
+manufacturer,name,index,fitting_cross
+Rodenstock,Progressiv Start 2,4 mm
+Rodenstock,Progressiv SI,4 mm
+Rodenstock,Progressiv AT,4 mm
+Rodenstock,Progressiv Life,4 mm
+Rodenstock,Progressiv Life XS,4 mm
+Rodenstock,Impression ILT,0 mm
+
+
+manufacturer,name,corridor length, minimum fitting height, minimum frame depth
+Rodenstock,Impression FreeSign,13-24 mm1,15-26 mm1,23-34 mm1
+Rodenstock,Impression Variable,14-18 mm1,16-20 mm,24 mm
+Rodenstock,Impression ,18 mm,20 mm,26 mm
+Rodenstock,Impression M,16 mm,18 mm,24 mm
+Rodenstock,Impression,14 mm,16 mm,28 mm
+Rodenstock,Impression High-Power,14 mm,18 mm,28 mm
+Rodenstock,Impression Myopia XS,14 mm,16 mm,24 mm
+Rodenstock,Multigressiv My View L,18 mm,20 mm,28 mm
+Rodenstock,Multigressiv My View M,16 mm,18 mm,26 mm
+Rodenstock,Multigressiv My View XS,14 mm,16 mm,24 mm
+Rodenstock,Progressiv PureLife,18 mm,20 mm,28 mm
+Rodenstock,Progressiv PureLife L,14 mm,16 mm,24 mm
+Rodenstock,Progressiv PureLife XS,18 mm,20 mm,28 mm
+Rodenstock,Progressiv Lite Free L,16 mm,18 mm,24 mm
+Rodenstock,Progressiv Lite Free XS,18 mm,20 mm,28 mm
+Rodenstock,Progressiv Young Life Free,14 mm,16 mm,24 mm
+Rodenstock,Progressiv Young Life Free XS,18 mm,20 mm,28 mm
+Rodenstock,Impression Ergo FS,14-22 mm1,21-32 mm1,25-36 mm1
+Rodenstock,Impression Ergo Book,16-20 mm1,22-26 mm1,26-30 mm1
+Rodenstock,Impression Ergo PC,16-20 mm1,22-26 mm1,26-30 mm1
+Rodenstock,Impression Ergo Room,16-20 mm1,22-26 mm1,24-28 mm1
+Rodenstock,Multigressiv Ergo Book,16 mm,22 mm,26 mm
+Rodenstock,Multigressiv Ergo PC,20 mm,26 mm,30 mm
+Rodenstock,Multigressiv Ergo Room,20 mm,24 mm,28 mm
+Rodenstock,Nexyma 40,13 mm,19 mm,23 mm
+Rodenstock,Nexyma 80,20 mm,26 mm,30 mm
+Rodenstock,Nexyma 80,20 mm,26 mm,30 mm
+
+manufacturer,name,fitting_cross
+Rodenstock,Impression XS,X in front of near addition 0 mm
+Rodenstock,Progressiv PureLife,L by near addition 4 mm
+Rodenstock,Progressiv PureLife XS,XS by near addition 4 mm
+Rodenstock,Multigressiv MyView,L by near addition 4 mm
+Rodenstock,Multigressiv MyView,M by near addition 4 mm
+Rodenstock,Multigressiv MyView, S by near addition 4 mm
+Rodenstock,Nexyma 40, 60= base curve 5= index
+Rodenstock,Nexyma 80, 60= base curve 5= index
+
