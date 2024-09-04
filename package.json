@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "react-native-pytorch-core": "^0.2.4"
+  }
+}

@@ -1,0 +1,13 @@
+node_modules/
+android/
+ios/
+*.log
+*.lock
+.vscode/
+.env
+.DS_Store
+.venv/
+*.lib
+*.dylib
+*.so
+*.bin
