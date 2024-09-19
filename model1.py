@@ -19,7 +19,7 @@ import torch.nn.functional as F
 import random
 
 # Firebase setup
-cred = credentials.Certificate("/Users/atiya/Documents/ML_Algorithm_lenses/capturelensapp-firebase-adminsdk-tl5tq-dc854ec4d5.json")
+cred = credentials.Certificate("/Users/atiyamahboob/Documents/ML_Algorithm_lenses/capturelensapp-firebase-adminsdk-tl5tq-dc854ec4d5.json")
 firebase_admin.initialize_app(cred, {
     'storageBucket': 'capturelensapp.appspot.com'
 })
@@ -447,7 +447,7 @@ test_accuracy = test_correct / len(test_loader.dataset)
 print(f'Test Set - Loss: {test_loss:.4f}, Accuracy: {test_accuracy:.4f}')
 
 # Store extracted engravings and augmented symbols in Firestore
-def store_images_in_firestore(extracted_dir, augmented_dir, collection_name, lenses_collection_name, max_retries=5):
+def store_images_in_firestore(extracted_dir, augmented_dir, collection_name, lenses_collection_name, max_retries=10):
     for folder_name in os.listdir(augmented_dir):
         folder_path = os.path.join(augmented_dir, folder_name)
         extracted_path = os.path.join(extracted_dir, folder_name + '.png')
@@ -460,7 +460,7 @@ def store_images_in_firestore(extracted_dir, augmented_dir, collection_name, len
             blob = bucket.blob(f'{collection_name}/{folder_name}/extracted.png')
             while not success and retries < max_retries:
                 try:
-                    blob.upload_from_filename(extracted_path, timeout=300)
+                    blob.upload_from_filename(extracted_path, timeout=600)
                     extracted_url = blob.public_url
                     print(f'Extracted image {extracted_path} uploaded to {blob.name}')
                     success = True
