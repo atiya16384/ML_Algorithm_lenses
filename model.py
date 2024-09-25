@@ -178,7 +178,7 @@ def train_model():
                 break
 
     # Load the best model
-    model.load_state_dict(torch.load('best_model.pth'))
+    model.load_state_dict(torch.load('best_model.pth', weights_only=True))
 
     # Evaluate on the test set
     model.eval()
