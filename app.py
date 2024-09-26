@@ -2,7 +2,7 @@ from flask import Flask, request, jsonify
 import torch
 from torchvision import transforms
 from PIL import Image
-from model1 import CNN, num_classes
+from model import CNN, num_classes
 import firebase_admin
 from firebase_admin import credentials, firestore, storage
 import os
@@ -15,7 +15,8 @@ CORS(app, resources={r"/*": {"origins": "*"}})
 
 # Load the pre-trained model
 model = CNN(num_classes)  # Initialize the CNN model with the number of classes
-model.load_state_dict(torch.load('best_model.pth', map_location=torch.device('cpu')))  # Load the model weights from a file
+model.load_state_dict(torch.load('best_model.pth', map_location=torch.device('cpu'), weights_only=True))
+ # Load the model weights from a file
 model.eval()
 
 # Define image transformation to match the preprocessing used during training
